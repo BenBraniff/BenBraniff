@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Current Oakland University Student majoring in Computer Science aspiring to be a Software Engineer. Hobbies include weight lifting, Basketballs, friends
 <!--
 **BenBraniff/BenBraniff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
