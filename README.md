@@ -1,5 +1,7 @@
 ## Hi there 👋
-Current Oakland University Student majoring in Computer Science aspiring to be a Software Engineer. Hobbies include weight lifting, Basketballs, friends
+Current Oakland University Student majoring in Computer Science aspiring to be a Software Engineer. Hobbies include weight lifting, Basketballs, friends.
+
+I’m currently working on making our fitness webapp into a mobile app, as well as a life calander where each tile thats filled is a week of your life.
 <!--
 **BenBraniff/BenBraniff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
