@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Benjamin Braniff</h1>
-<h3 align="center">Current 3rd year Oakland University Student majoring in Computer Science seeking a Software Development Internship for summer 2025. Enjoy, and have experience with, frontend development with ReactJS, but I’m open to learning new things.I’m currently working on making our fitness webapp into a mobile app, as well as a life calander where each tile thats filled is a week of your life. My Hobbies include weight lifting, Basketballs, hanging out with my friends.</h3>
+<h3 align="center">Current 4rd year Oakland University Student, majoring in Computer
+Science, seeking a Software Engineering full time position for
+Summer 2025. Enjoy, and have experience with, frontend
+development with ReactJS. I’m always open to learning new things.</h3>
 
 - 🔭 I’m currently working on [Fitness-Pal-Pro](https://github.com/AlexMerlo1/Fitness-Pal-Pro)
 
