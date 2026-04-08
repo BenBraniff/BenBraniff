@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Benjamin Braniff</h1>
-<h3 align="center">I'm a current 4rd year Oakland University Student, majoring in Computer
+<h3 align="center">I'm a current 4th year Oakland University Student, majoring in Computer
 Science, seeking a Software Engineering full time position for
 Summer 2026. Enjoy, and have experience with, frontend
 development with ReactJS. I’m always open to learning new things.</h3>
